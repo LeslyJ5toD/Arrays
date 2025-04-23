@@ -1,0 +1,1 @@
+Este programa en C# solicita 10 números enteros para dos arreglos, suma sus elementos uno a uno y muestra el resultado de cada suma correspondiente.
